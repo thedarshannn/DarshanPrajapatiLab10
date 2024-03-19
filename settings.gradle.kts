@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "DarshanLab10"
-include(":app")
+include(":DarshanModule10")
