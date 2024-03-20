@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DarshanLab10</string>
+    <string name="app_description">Design Bottom Navigation Application</string>
+    <string name="design_by">Design by Darshan Prajapati - n01584247 ©</string>
 </resources>
