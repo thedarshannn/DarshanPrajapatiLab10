@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:text="@string/download_image" />
 
     <ProgressBar
@@ -34,14 +34,15 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:visibility="gone"
-        android:layout_marginTop="16dp" />
+        android:layout_marginTop="25dp" />
 
     <ImageView
         android:id="@+id/darImageView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
         android:scaleType="centerCrop"
+        android:layout_gravity="center_horizontal"
         android:visibility="gone"
-        android:layout_marginTop="16dp" />
+        android:layout_marginTop="20dp" />
 
 </LinearLayout>
