@@ -22,10 +22,10 @@ class Da1rshanFragment : Fragment() {
     private lateinit var progressBar: ProgressBar
     private lateinit var adapter: ArrayAdapter<ImageWithText>
     private val imageList = listOf(
-        ImageWithText("https://cdn-icons-png.flaticon.com/512/9626/9626716.png", "Image 1"),
-        ImageWithText("https://example.com/image2.jpg", "Image 2"),
-        ImageWithText("https://example.com/image3.jpg", "Image 3"),
-        ImageWithText("https://example.com/image4.jpg", "Image 4")
+        ImageWithText("https://cdn-icons-png.flaticon.com/512/5971/5971593.png", "Cricket"),
+        ImageWithText("https://cdn-icons-png.flaticon.com/512/2642/2642160.png", "Soccer"),
+        ImageWithText("https://cdn-icons-png.flaticon.com/512/7439/7439270.png", "Volleyball"),
+        ImageWithText("https://cdn-icons-png.flaticon.com/512/3055/3055855.png", "Basketball")
     )
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

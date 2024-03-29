@@ -26,24 +26,29 @@ class PrajapatiActivity10 : AppCompatActivity() {
             .commit()
 
         // Set the listener for the BottomNavigationView
-        bnv?.setOnItemReselectedListener { item ->
+        bnv?.setOnItemSelectedListener() { item ->
             when (item.itemId) {
                 R.id.da1rshan -> {
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.darflFragment, fragmentList[0]).commit()
+                    true
                 }
                 R.id.pr2ajapati -> {
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.darflFragment, fragmentList[1]).commit()
+                    true
                 }
                 R.id.n013584247 -> {
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.darflFragment, fragmentList[2]).commit()
+                    true
                 }
                 R.id.d4p -> {
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.darflFragment, fragmentList[3]).commit()
+                    true
                 }
+                else -> false
             }
         }
     }
