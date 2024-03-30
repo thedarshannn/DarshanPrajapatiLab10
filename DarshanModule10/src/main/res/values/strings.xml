@@ -15,4 +15,21 @@
     <string name="id">N01584247</string>
     <string name="temperature">Temperature</string>
     <string name="weather_info">Weather Info</string>
+
+    <string-array name="cities_array">
+        <item>Toronto</item>
+        <item>London</item>
+        <item>New York</item>
+        <item>Tokyo</item>
+        <item>Sydney</item>
+    </string-array>
+
+
+    <string-array name="cities_coordinates">
+        <item>43.6532,-79.3832</item> <!-- Toronto, Canada -->
+        <item>51.5074,-0.1278</item>   <!-- London, UK -->
+        <item>40.7128,-74.0060</item>   <!-- New York, USA -->
+        <item>35.6895,139.6917</item>   <!-- Tokyo, Japan -->
+        <item>-33.8688,151.2093</item>  <!-- Sydney, Australia -->
+    </string-array>
 </resources>
