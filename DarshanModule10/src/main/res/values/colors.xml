@@ -6,4 +6,6 @@
     <color name="colorPrimarySplash">#4D7495</color>
     <color name="colorPrimaryDarkSplash">#1F3F59</color>
     <color name="colorAccentSplash">#4D7495</color>
+    <color name="red">#F44336</color>
+    <color name="lightCyan">#E0FFFF</color>
 </resources>
