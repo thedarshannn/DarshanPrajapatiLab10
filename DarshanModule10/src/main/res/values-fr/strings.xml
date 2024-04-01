@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">DarshanLab10</string>
+    <string name="app_description">Concevoir une application de navigation inférieure</string>
+    <string name="design_by">Conçu par Darshan Prajapati - n01584247 ©</string>
+    <string name="da1rshan">Da1rshan</string>
+    <string name="pr2ajapati">Pr2ajapati</string>
+    <string name="n013584247">n013584247</string>
+    <string name="d4p">D4P</string>
+    <string name="full_name_id">Darshan Prajapati n0158</string>
+    <string name="download_image">Télécharger l\'image</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="id">N01584247</string>
+    <string name="temperature">Température</string>
+    <string name="weather_info">Info météo</string>
+    <string name="name_id">Darshan Prajapati N01584247</string>
+    <string name="location">Emplacement</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/9214589741</string>
+    <string name="full_name">Darshan Prajapati</string>
+    <string name="location_is_not_determined">L\'emplacement n\'est pas déterminé</string>
+    <string name="location_permission_is_required">L\'autorisation de localisation est requise</string>
 </resources>
