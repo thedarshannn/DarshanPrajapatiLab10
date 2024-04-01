@@ -16,6 +16,8 @@
     <string name="temperature">Temperature</string>
     <string name="weather_info">Weather Info</string>
     <string name="name_id">Darshan Prajapati N01584247</string>
+    <string name="location">Location</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/9214589741</string>
 
     <string-array name="cities_array">
         <item>Toronto</item>
