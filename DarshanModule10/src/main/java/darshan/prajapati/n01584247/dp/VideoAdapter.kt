@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class VideoAdapter(private val videoTitles: Array<String>, private val listener: OnItemClickListener) :
+class VideoAdapter(private val videoTitles: Array<String>, private val listener: (Any) -> Unit) :
     RecyclerView.Adapter<VideoAdapter.VideoViewHolder>() {
 
     interface OnItemClickListener {
@@ -18,7 +18,7 @@ class VideoAdapter(private val videoTitles: Array<String>, private val listener:
 
         init {
             itemView.setOnClickListener {
-                listener.onItemClick(adapterPosition)
+                listener.invoke(adapterPosition)
             }
         }
     }
