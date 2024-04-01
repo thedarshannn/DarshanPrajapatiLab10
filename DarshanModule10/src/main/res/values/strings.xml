@@ -15,6 +15,7 @@
     <string name="id">N01584247</string>
     <string name="temperature">Temperature</string>
     <string name="weather_info">Weather Info</string>
+    <string name="name_id">Darshan Prajapati N01584247</string>
 
     <string-array name="cities_array">
         <item>Toronto</item>
