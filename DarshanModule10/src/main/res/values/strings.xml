@@ -18,6 +18,7 @@
     <string name="name_id">Darshan Prajapati N01584247</string>
     <string name="location">Location</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/9214589741</string>
+    <string name="full_name">Darshan Prajapati</string>
 
     <string-array name="cities_array">
         <item>Toronto</item>
