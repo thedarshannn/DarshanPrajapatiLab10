@@ -33,4 +33,16 @@
         <item>35.6895,139.6917</item>   <!-- Tokyo, Japan -->
         <item>-33.8688,151.2093</item>  <!-- Sydney, Australia -->
     </string-array>
+
+    <string-array name="video_urls">
+        <item>https://www.youtube.com/embed/drQK8ciCAjY</item>
+        <item>https://www.youtube.com/embed/NCoekcDxbrI</item>
+        <item>https://www.youtube.com/embed/gcboferZBoU</item>
+    </string-array>
+
+    <string-array name="video_titles">
+        <item>Java in one shot</item>
+        <item>Intro to Android Studio</item>
+        <item>New in Android</item>
+    </string-array>
 </resources>
